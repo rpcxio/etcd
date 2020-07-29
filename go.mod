@@ -1,4 +1,4 @@
-module github.com/rpcxio/etcd/etcd
+module github.com/rpcxio/etcd
 
 go 1.14
 
